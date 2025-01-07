@@ -65,3 +65,4 @@ To run this notebook, you need the following:
 - Requires clear and legible bill images or PDFs for accurate OCR processing.
 - AI model results depend on the quality of extracted text and the model configuration.
 
+![image](https://github.com/user-attachments/assets/16bd78d6-65df-4fb8-8c35-fb618b26b1c3)
