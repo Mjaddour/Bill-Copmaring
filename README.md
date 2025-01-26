@@ -67,3 +67,5 @@ To run this notebook, you need the following:
 
 ![image](https://github.com/user-attachments/assets/3f664730-b7a1-4c7f-b95c-e3cd495803be)
 
+Error handelling:
+![image](https://github.com/user-attachments/assets/70c0ac4e-2c1f-4467-8dce-e79632ee9874)
