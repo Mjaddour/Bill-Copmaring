@@ -2,6 +2,7 @@
 
 This Jupyter Notebook provides a tool for analyzing and comparing two bills (in PDF or image formats) using an AI-powered assistant. The application highlights key pricing differences and reasons for changes between the bills.
 
+
 ## Features
 
 - **PDF and Image Processing**: Extracts text from PDFs and images (PNG/JPG).
